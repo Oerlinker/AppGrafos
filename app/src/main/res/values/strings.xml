@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AplicacionGrafos</string>
+    <string name="google_maps_key" translatable="false">AIzaSyCjZ0qy5-NDxkEHgRE5KKetZ40D0qAsLyI</string>
+</resources>
