@@ -1,2 +1,2 @@
 "# el Proyecto se encuentra en MainActivity.kt" 
-"# AppGrafos" 
+"# y la apk en \app\build\outputs\apk\debug" 
